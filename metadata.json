@@ -1,0 +1,6 @@
+{
+  "name": "STORGMAIL888 - Platform Setor & Jual Beli Akun Gmail",
+  "description": "Platform resmi jual beli dan setor akun Gmail terpercaya dengan dasbor modern, pencairan cepat DANA/Gopay/Bank, dan sistem admin terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
